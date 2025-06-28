@@ -1,0 +1,4 @@
+CREATE TABLE Hashtag (
+    HashtagID VARCHAR(255) PRIMARY KEY,
+    Tag VARCHAR(255)
+);
